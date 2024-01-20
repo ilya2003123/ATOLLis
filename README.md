@@ -47,4 +47,4 @@
 5.3. [Облако точек 3](https://disk.yandex.ru/d/wdDSch9fQ2gX1Q)
 
 ## Результаты работы
-[Выходные данные тестовой работы](https://drive.google.com/drive/u/0/folders/1gL74uVwQxOc1hrWeUue-2cXSXGBA_MZq?q=parent:1gL74uVwQxOc1hrWeUue-2cXSXGBA_MZq)
+[Выходные данные тестовой работы](https://drive.google.com/drive/folders/1gL74uVwQxOc1hrWeUue-2cXSXGBA_MZq?usp=drive_link)
